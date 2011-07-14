@@ -39,7 +39,7 @@ integrated, employess over 7000 people and has $2.5 billion in revenue.
 
 
 ### Cargill (Wichita, KS)
-Cargill is *the* powerhouse in agriculture: the world's largest privately 
+Cargill is the powerhouse in agriculture: the world's largest privately 
 held corporation with over 100,000 employees and revenue over $100 billion.
 I worked for the Cargill Meat Solutions platform, a major processor and 
 distributor of beef, pork and poultry.
@@ -81,36 +81,9 @@ distributor of beef, pork and poultry.
 ### Brocade Certified FCoE Professional
 
 ## Buzzwords
-*aix*,
-*apache*,
-*brocade fc switches*,
-bind,
-*gentoo*,
-hp-ux,
-*hitachi ams/usp,*
-isc dhcp,
-jboss,
-kerberos,
-ldap,
-**linux**,
-munin,
-mysql,
-nagios,
-*netapp*,
-netbackup,
-nginx,
-oracle db,
-*passenger*,
-*perl*,
-postgresql,
-**puppet**,
-**rhel**,
-ruby on rails,
-*ruby*,
-*sinatra*,
-*solaris*,
-syslinux,
-tivoli storage manager,
-**ubuntu**,
-*vagrant*,
+*aix*, *apache*, *brocade fc switches*, bind, *gentoo*, hp-ux,
+*hitachi ams/usp,* isc dhcp, jboss, kerberos, ldap, **linux**, munin,
+mysql, nagios, *netapp*, netbackup, nginx, oracle db, *passenger*, *perl*,
+postgresql, **puppet**, **rhel**, ruby on rails, *ruby*, *sinatra*,
+*solaris*, syslinux, tivoli storage manager, **ubuntu**, *vagrant*,
 weblogic

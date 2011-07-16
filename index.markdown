@@ -81,7 +81,7 @@ distributor of beef, pork and poultry.
 ### Brocade Certified FCoE Professional
 
 ## Buzzwords
-*aix*, *apache*, *brocade fc switches*, bind, *gentoo*, hp-ux,
+*aix*, *apache*, *brocade fc switches*, bind, *cobbler*, *gentoo*, hp-ux,
 *hitachi ams/usp,* isc dhcp, jboss, kerberos, ldap, **linux**, munin,
 mysql, nagios, *netapp*, netbackup, nginx, oracle db, *passenger*, *perl*,
 postgresql, **puppet**, **rhel**, ruby on rails, *ruby*, *sinatra*,

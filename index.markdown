@@ -20,7 +20,7 @@ disruptive technologies and love creating something from nothing.
 ### Garmin (Olathe, KS - in KC Metro)
 Garmin is the world leader in the design and manufacture of personal 
 navigation and other location-based equipment.  Garmin is vertically 
-integrated, employess over 7000 people and has $2.5 billion in revenue.
+integrated, employees over 7000 people and has $2.5 billion in revenue.
 
 #### Senior UNIX Systems Administrator (October 2006 - present)
 * Architect, implement and support a large Puppet infrastructure managing 
@@ -33,7 +33,7 @@ integrated, employess over 7000 people and has $2.5 billion in revenue.
   NetBackup, Nagios and Munin monitoring, F5 BigIP load balancers, BIND,
   Cobbler and Syslinux PXE provisioning, etc.
 * Configure and support Apache, JBoss and WebLogic middleware.
-* Colaborate with DBAs, Application Admins and Developers in various
+* Collaborate with DBAs, application admins and developers in various
   projects and troubleshooting.
 * Implement and support two Oracle Exadata V2 clusters.
 
@@ -51,7 +51,7 @@ distributor of beef, pork and poultry.
   frames.
 * Implemented a much needed security overhaul that included centralized
   authentication using AD and MIT Kerberos and a single sign-on SSH 
-  impementation.
+  implementation.
 * Managed the TSM backup and recovery environment; reorganized backups to
   allow for prioritized disaster recovery, and participated in annual DR
   exercises.
